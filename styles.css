@@ -1,0 +1,8 @@
+.container {
+  display: flex;
+}
+
+.images {
+  border: 2px solid black;
+  margin: 25px;
+}
